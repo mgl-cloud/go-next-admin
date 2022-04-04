@@ -1,5 +1,5 @@
 # go-next-admin
-### Go-next-admin（简称GnAdmin） 是基于goframe2 (gf2.0,go-frame2.0) 的前后端分离脚手架框架
+### Go-next-admin（简称GnAdmin） 是基于goframe2 (gf2.0,go-frame2.0) 的前后端分离脚手架框架，各个组件的版本会持续跟进
 
 # 技术栈
 ## 后端
